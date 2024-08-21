@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josia\\OneDrive\\Escritorio\\problema1.1\\problema-1.1\\ejercisios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA42909C-09E7-431E-88E5-7036FB946C41}|Ejercicios.csproj|c:\\users\\josia\\onedrive\\escritorio\\problema1.1\\problema-1.1\\ejercisios\\icolleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA42909C-09E7-431E-88E5-7036FB946C41}|Ejercicios.csproj|solutionrelative:icolleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA42909C-09E7-431E-88E5-7036FB946C41}|Ejercicios.csproj|c:\\users\\josia\\onedrive\\escritorio\\problema1.1\\problema-1.1\\ejercisios\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA42909C-09E7-431E-88E5-7036FB946C41}|Ejercicios.csproj|solutionrelative:cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA42909C-09E7-431E-88E5-7036FB946C41}|Ejercicios.csproj|c:\\users\\josia\\onedrive\\escritorio\\problema1.1\\problema-1.1\\ejercisios\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA42909C-09E7-431E-88E5-7036FB946C41}|Ejercicios.csproj|solutionrelative:pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA42909C-09E7-431E-88E5-7036FB946C41}|Ejercicios.csproj|c:\\users\\josia\\onedrive\\escritorio\\problema1.1\\problema-1.1\\ejercisios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA42909C-09E7-431E-88E5-7036FB946C41}|Ejercicios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IColleccion.cs",
+              "DocumentMoniker": "C:\\Users\\josia\\OneDrive\\Escritorio\\problema1.1\\problema-1.1\\ejercisios\\IColleccion.cs",
+              "RelativeDocumentMoniker": "IColleccion.cs",
+              "ToolTip": "C:\\Users\\josia\\OneDrive\\Escritorio\\problema1.1\\problema-1.1\\ejercisios\\IColleccion.cs",
+              "RelativeToolTip": "IColleccion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T03:00:23.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "C:\\Users\\josia\\OneDrive\\Escritorio\\problema1.1\\problema-1.1\\ejercisios\\Cola.cs",
+              "RelativeDocumentMoniker": "Cola.cs",
+              "ToolTip": "C:\\Users\\josia\\OneDrive\\Escritorio\\problema1.1\\problema-1.1\\ejercisios\\Cola.cs",
+              "RelativeToolTip": "Cola.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T03:00:23.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pila.cs",
+              "DocumentMoniker": "C:\\Users\\josia\\OneDrive\\Escritorio\\problema1.1\\problema-1.1\\ejercisios\\Pila.cs",
+              "RelativeDocumentMoniker": "Pila.cs",
+              "ToolTip": "C:\\Users\\josia\\OneDrive\\Escritorio\\problema1.1\\problema-1.1\\ejercisios\\Pila.cs",
+              "RelativeToolTip": "Pila.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T03:00:23.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josia\\OneDrive\\Escritorio\\problema1.1\\problema-1.1\\ejercisios\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\josia\\OneDrive\\Escritorio\\problema1.1\\problema-1.1\\ejercisios\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T03:00:23.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
